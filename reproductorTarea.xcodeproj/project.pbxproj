@@ -12,6 +12,18 @@
 		10DBAA781D56913D000017BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA761D56913D000017BF /* Main.storyboard */; };
 		10DBAA7A1D56913D000017BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA791D56913D000017BF /* Assets.xcassets */; };
 		10DBAA7D1D56913D000017BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA7B1D56913D000017BF /* LaunchScreen.storyboard */; };
+		10DBAA8E1D569247000017BF /* bailando.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA841D569247000017BF /* bailando.jpg */; };
+		10DBAA8F1D569247000017BF /* bailando.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA851D569247000017BF /* bailando.mp3 */; };
+		10DBAA901D569247000017BF /* corazon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA861D569247000017BF /* corazon.jpg */; };
+		10DBAA911D569247000017BF /* corazon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA871D569247000017BF /* corazon.mp3 */; };
+		10DBAA921D569247000017BF /* eresMia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA881D569247000017BF /* eresMia.jpg */; };
+		10DBAA931D569247000017BF /* eresMia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA891D569247000017BF /* eresMia.mp3 */; };
+		10DBAA941D569247000017BF /* esPorTi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA8A1D569247000017BF /* esPorTi.jpg */; };
+		10DBAA951D569247000017BF /* esPorTi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA8B1D569247000017BF /* esPorTi.mp3 */; };
+		10DBAA961D569247000017BF /* miSoledad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA8C1D569247000017BF /* miSoledad.jpg */; };
+		10DBAA971D569247000017BF /* miSoledad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA8D1D569247000017BF /* miSoledad.mp3 */; };
+		10DBAA991D56925B000017BF /* portada.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 10DBAA981D56925B000017BF /* portada.jpg */; };
+		10DBAAB91D56DB65000017BF /* detalleCancion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DBAAB81D56DB65000017BF /* detalleCancion.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		10DBAA791D56913D000017BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		10DBAA7C1D56913D000017BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		10DBAA7E1D56913D000017BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10DBAA841D569247000017BF /* bailando.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bailando.jpg; sourceTree = "<group>"; };
+		10DBAA851D569247000017BF /* bailando.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bailando.mp3; sourceTree = "<group>"; };
+		10DBAA861D569247000017BF /* corazon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = corazon.jpg; sourceTree = "<group>"; };
+		10DBAA871D569247000017BF /* corazon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = corazon.mp3; sourceTree = "<group>"; };
+		10DBAA881D569247000017BF /* eresMia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eresMia.jpg; sourceTree = "<group>"; };
+		10DBAA891D569247000017BF /* eresMia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = eresMia.mp3; sourceTree = "<group>"; };
+		10DBAA8A1D569247000017BF /* esPorTi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = esPorTi.jpg; sourceTree = "<group>"; };
+		10DBAA8B1D569247000017BF /* esPorTi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = esPorTi.mp3; sourceTree = "<group>"; };
+		10DBAA8C1D569247000017BF /* miSoledad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = miSoledad.jpg; sourceTree = "<group>"; };
+		10DBAA8D1D569247000017BF /* miSoledad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = miSoledad.mp3; sourceTree = "<group>"; };
+		10DBAA981D56925B000017BF /* portada.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = portada.jpg; sourceTree = "<group>"; };
+		10DBAAB81D56DB65000017BF /* detalleCancion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = detalleCancion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +78,24 @@
 		10DBAA711D56913D000017BF /* reproductorTarea */ = {
 			isa = PBXGroup;
 			children = (
+				10DBAA981D56925B000017BF /* portada.jpg */,
+				10DBAA841D569247000017BF /* bailando.jpg */,
+				10DBAA851D569247000017BF /* bailando.mp3 */,
+				10DBAA861D569247000017BF /* corazon.jpg */,
+				10DBAA871D569247000017BF /* corazon.mp3 */,
+				10DBAA881D569247000017BF /* eresMia.jpg */,
+				10DBAA891D569247000017BF /* eresMia.mp3 */,
+				10DBAA8A1D569247000017BF /* esPorTi.jpg */,
+				10DBAA8B1D569247000017BF /* esPorTi.mp3 */,
+				10DBAA8C1D569247000017BF /* miSoledad.jpg */,
+				10DBAA8D1D569247000017BF /* miSoledad.mp3 */,
 				10DBAA721D56913D000017BF /* AppDelegate.swift */,
 				10DBAA741D56913D000017BF /* ViewController.swift */,
 				10DBAA761D56913D000017BF /* Main.storyboard */,
 				10DBAA791D56913D000017BF /* Assets.xcassets */,
 				10DBAA7B1D56913D000017BF /* LaunchScreen.storyboard */,
 				10DBAA7E1D56913D000017BF /* Info.plist */,
+				10DBAAB81D56DB65000017BF /* detalleCancion.swift */,
 			);
 			path = reproductorTarea;
 			sourceTree = "<group>";
@@ -122,9 +158,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10DBAA951D569247000017BF /* esPorTi.mp3 in Resources */,
+				10DBAA971D569247000017BF /* miSoledad.mp3 in Resources */,
+				10DBAA941D569247000017BF /* esPorTi.jpg in Resources */,
+				10DBAA921D569247000017BF /* eresMia.jpg in Resources */,
+				10DBAA901D569247000017BF /* corazon.jpg in Resources */,
+				10DBAA991D56925B000017BF /* portada.jpg in Resources */,
+				10DBAA8F1D569247000017BF /* bailando.mp3 in Resources */,
 				10DBAA7D1D56913D000017BF /* LaunchScreen.storyboard in Resources */,
+				10DBAA961D569247000017BF /* miSoledad.jpg in Resources */,
+				10DBAA931D569247000017BF /* eresMia.mp3 in Resources */,
+				10DBAA8E1D569247000017BF /* bailando.jpg in Resources */,
 				10DBAA7A1D56913D000017BF /* Assets.xcassets in Resources */,
 				10DBAA781D56913D000017BF /* Main.storyboard in Resources */,
+				10DBAA911D569247000017BF /* corazon.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,6 +182,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10DBAAB91D56DB65000017BF /* detalleCancion.swift in Sources */,
 				10DBAA751D56913D000017BF /* ViewController.swift in Sources */,
 				10DBAA731D56913D000017BF /* AppDelegate.swift in Sources */,
 			);
